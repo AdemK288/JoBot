@@ -1,4 +1,6 @@
 JoBot is a Selenium based automation tool designed to scrape job postings on Indeed. Instructions are very simple.
+
+
 Download Selenium Webdriver
 
 
